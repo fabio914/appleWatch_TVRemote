@@ -2,7 +2,10 @@
 
 <img src="/2.jpg?raw=true" width="200">
 
-This is a demo that shows that it is possible to control a normal TV with an Apple Watch. Video: https://www.youtube.com/watch?v=9AzIApuXMI8
+This is a demo that shows that it is possible to control a normal TV with an Apple Watch.
+
+## Video
+[![VIDEO](http://img.youtube.com/vi/9AzIApuXMI8/0.jpg)](http://www.youtube.com/watch?v=Y9AzIApuXMI8)
 
 ## What you will need:
 * Arduino Due (if you edit the code you'll be able to use an Arduino UNO, Pro Mini, etc...)
